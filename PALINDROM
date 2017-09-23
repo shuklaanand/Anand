@@ -1,4 +1,4 @@
-# Anand
+## Anand
 
 #Write a program to check it is prime or not
 N=int(input("ENTER THE NUMBER:"))
